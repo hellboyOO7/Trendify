@@ -93,6 +93,9 @@ button.white {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.6);
   z-index: 999;
 }
+#header a{
+  text-decoration:none;
+}
 
 #navbar {
   display: flex;
